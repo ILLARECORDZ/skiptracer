@@ -60,7 +60,7 @@ setup(
         'lxml',
         'requests',
         'ipdb',
-        'pprint',
+        'prettyprinter',
         'click',
         'cfscrape',
         'numpy',
