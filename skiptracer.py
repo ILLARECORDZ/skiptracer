@@ -12,7 +12,7 @@ except BaseException:
     import builtins as bi
 import ast
 from plugins.colors import BodyColors as bc
-from urllib.parse import urlencode
+
 
 def signal_handler(signal, frame):
     print("")

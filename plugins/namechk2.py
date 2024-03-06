@@ -9,7 +9,7 @@ import lxml.html
 from bs4 import BeautifulSoup
 from lxml import html
 from requests.utils import quote
-from urllib import urlencode
+from urllib.parse import urlencode
 from plugins.base import PageGrabber
 from plugins.colors import BodyColors as bc
 try:
